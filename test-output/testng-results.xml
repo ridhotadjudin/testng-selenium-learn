@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="7" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<img src='file://D:\TestScreenshoot\20220614_183859.png'/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://D:\TestScreenshoot\20220614_183900.png'/>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-06-14T18:38:49 ICT" name="Default suite" finished-at="2022-06-14T18:39:17 ICT" duration-ms="27894">
+    <groups>
+    </groups>
+    <test started-at="2022-06-14T18:38:49 ICT" name="Default test" finished-at="2022-06-14T18:39:17 ICT" duration-ms="27894">
+      <class name="com.nexsoft.testng.dashboard.CRUDBuilderTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.nexsoft.testng.dashboard.CRUDBuilderTest@37d4349f]" started-at="2022-06-14T18:38:49 ICT" name="init" finished-at="2022-06-14T18:38:53 ICT" duration-ms="3780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="login()[pri:0, instance:com.nexsoft.testng.dashboard.CRUDBuilderTest@37d4349f]" started-at="2022-06-14T18:38:53 ICT" name="login" finished-at="2022-06-14T18:38:56 ICT" duration-ms="3062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createData()[pri:1, instance:com.nexsoft.testng.dashboard.CRUDBuilderTest@37d4349f]" started-at="2022-06-14T18:38:56 ICT" name="createData" finished-at="2022-06-14T18:39:01 ICT" duration-ms="4922" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://D:\TestScreenshoot\20220614_183859.png'/>]]>
+            </line>
+            <line>
+              <![CDATA[<img src='file://D:\TestScreenshoot\20220614_183900.png'/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createData -->
+        <test-method signature="cobaDulu(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.nexsoft.testng.dashboard.CRUDBuilderTest@37d4349f]" started-at="2022-06-14T18:39:01 ICT" name="cobaDulu" data-provider="getNexsoftData" finished-at="2022-06-14T18:39:06 ICT" duration-ms="5706" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dewa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dewa@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bogor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cobaDulu -->
+        <test-method signature="cobaDulu(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.nexsoft.testng.dashboard.CRUDBuilderTest@37d4349f]" started-at="2022-06-14T18:39:06 ICT" name="cobaDulu" data-provider="getNexsoftData" finished-at="2022-06-14T18:39:13 ICT" duration-ms="6260" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Eka]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[eka@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Jakarta]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cobaDulu -->
+        <test-method signature="cobaDulu(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.nexsoft.testng.dashboard.CRUDBuilderTest@37d4349f]" started-at="2022-06-14T18:39:13 ICT" name="cobaDulu" data-provider="getNexsoftData" finished-at="2022-06-14T18:39:17 ICT" duration-ms="4009" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Wiwin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[wiwin@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Jakarta]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cobaDulu -->
+      </class> <!-- com.nexsoft.testng.dashboard.CRUDBuilderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

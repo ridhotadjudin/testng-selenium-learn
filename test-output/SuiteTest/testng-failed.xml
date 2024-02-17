@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SuiteTest]">
+  <test thread-count="5" name="Backend Test(failed)">
+    <classes>
+      <class name="com.nexsoft.testng.dashboard.CRUDBuilderTest">
+        <methods>
+          <include name="init"/>
+          <include name="createData"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- com.nexsoft.testng.dashboard.CRUDBuilderTest -->
+    </classes>
+  </test> <!-- Backend Test(failed) -->
+</suite> <!-- Failed suite [SuiteTest] -->
